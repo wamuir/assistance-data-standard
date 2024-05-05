@@ -1,3 +1,3 @@
-module github.com/wamuir/procurement-data-standard/structs/go
+module github.com/wamuir/assistance-data-standard/structs/go
 
 go 1.20
